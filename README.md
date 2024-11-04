@@ -6,7 +6,11 @@
 
 # Why?
 
-It is intended as a proof of concept for those who would rather use a map-centric application like **Navit** over alternative APRS applications like **YAAC** and **Xastir**.
+**dire_wolf_to_navit.py** is intended as a proof of concept for those who would rather use a map-centric application like **Navit** over alternative APRS applications like **YAAC** and **Xastir**.
+
+# Yes but why not just use aprs.fi—which is so much better.
+
+**dire_wolf_to_navit.py** is intended for offline or emergency communication. No Internet is needed.
 
 # What can it do?
 
